@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NBA選手管理アプリ</string>
+
+    <string name="menu_abc">アイウエオ順</string>
+    <string name="menu_insert">登録順</string>
+
+    <string name="title_insert">【選手追加】</string>
+    <string name="title_detail">【選手詳細】</string>
+
+    <string name="tv_player">選手名</string>
+    <string name="tv_position">ポジション</string>
+    <string name="tv_memo">メモ</string>
+
+    <string name="bt_insert">追加</string>
+    <string name="bt_update">更新</string>
+
+    <string name="insert_error">項目を入力してください。</string>
+
+    <string name="dialog_title">【選手削除】</string>
+    <string name="dialog_content">この選手を本当に削除しますか？</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">キャンセル</string>
+
+    <string name="toast_insert">選手を追加しました。</string>
+    <string name="toast_update">選手の情報を更新しました。</string>
+
+    <string-array name="position_array">
+        <item>ガード</item>
+        <item>フォワード</item>
+        <item>センター</item>
+    </string-array>
+
+</resources>
